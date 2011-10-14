@@ -8,7 +8,8 @@ gem 'rails', '3.1.0'
 gem 'sqlite3'
 
 group :development do
-  gem 'rspec-rails', '2.6.1'
+  	gem 'rspec-rails', '2.6.1'
+	gem 'annotate', '2.4.0'
 end
 
 group :test do
